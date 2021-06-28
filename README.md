@@ -13,3 +13,7 @@ Things Done
 3. Data Wrangling
 4. Data Training
 5. Data Accuracy Testing
+
+
+
+GOT 77. % Accuracy
