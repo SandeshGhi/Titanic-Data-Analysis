@@ -9,7 +9,7 @@ Using
 
 Things Done
 1. Data Collecting from Kaggle
-2. Data Processing
+2. Data Processing/Analyzing
 3. Data Wrangling
 4. Data Training
 5. Data Accuracy Testing
